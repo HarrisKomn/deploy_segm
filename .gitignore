@@ -1,0 +1,9 @@
+__pycache__/
+.vscode/
+.idea/
+checkpoints/
+cotracker/
+other_docker_files/
+other_readme_files/
+other_run_files/
+other_scripts/
