@@ -11,7 +11,7 @@ as input to Clara AGX.
 
 
 ## Installation
-Create docker image which contains dependencies of segmentation (pytorch, opencv, smp) and holoscan:
+Create a docker image which contains the dependencies of segmentation models (pytorch, opencv, smp) and holoscan processing:
 
 ```docker build --progress=plain -t multsegm_image_holo . -f multsegm_holoscan.Dockerfile```
 
